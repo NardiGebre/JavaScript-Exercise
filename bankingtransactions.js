@@ -31,5 +31,6 @@ function viewBalance ()
 }
 let depositResult = deposit(50000.00);
 let withdrawalResult = withdrawal(50000.00)
-let viewBalanceResult = viewBalance (); // undefined 
+let viewBalanceResult = viewBalance (); 
+ 
 
